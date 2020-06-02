@@ -1,0 +1,76 @@
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csprojAssemblyReference.cache
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Form1.resources
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Properties.Resources.resources
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.GenerateResource.cache
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CoreCompileInputs.cache
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe.config
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.pdb
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.exe
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.pdb
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\bin\Debug\Graphviz.dll
+C:\Users\363690\source\repos\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CopyComplete
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe.config
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.pdb
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\bin\Debug\Graphviz.dll
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csprojAssemblyReference.cache
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Form1.resources
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Properties.Resources.resources
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.GenerateResource.cache
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CoreCompileInputs.cache
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CopyComplete
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.exe
+C:\Users\363690\Desktop\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe.config
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Graphviz.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Form1.resources
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Properties.Resources.resources
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.GenerateResource.cache
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CoreCompileInputs.cache
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CopyComplete
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.exe
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Core.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ANTLRv3.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ExternalGenerators.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Objects.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Paraiba.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Paraiba.Experiment.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\TreeDotNet.dll
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Core.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ANTLRv3.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ExternalGenerators.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Objects.pdb
+C:\Users\363690\Documents\Fontys\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csprojAssemblyReference.cache
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe.config
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.exe
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\ALE - Week 1.pdb
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Core.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ANTLRv3.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ExternalGenerators.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Objects.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Graphviz.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Paraiba.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Paraiba.Experiment.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\TreeDotNet.dll
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Core.pdb
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ANTLRv3.pdb
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Languages.ExternalGenerators.pdb
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\bin\Debug\Code2Xml.Objects.pdb
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csprojAssemblyReference.cache
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Form1.resources
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE___Week_1.Properties.Resources.resources
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.GenerateResource.cache
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CoreCompileInputs.cache
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.csproj.CopyComplete
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.exe
+C:\Users\363690\Desktop\ALE Final\ALE - Week 1\ALE - Week 1\obj\Debug\ALE - Week 1.pdb
